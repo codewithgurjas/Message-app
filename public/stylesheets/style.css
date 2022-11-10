@@ -1,10 +1,17 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: cursive;
   background-color: darkcyan;
   color: lime;
 }
 
 a {
-  color: #00B7FF;
+  color: darkred;
+  font-size: initial;
 }
+
+button{
+  background-color: lime;
+  border-radius: 20px;
+}
+
